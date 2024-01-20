@@ -11,6 +11,14 @@ O back-end foi simulado usando o pacote "json-server".
 
 ## Screenshots
 
+- Tela inicial
 ![App Screenshot](./imagesREADME/img1.png)
+- Tela de escolha dos ingredientes
 ![App Screenshot](./imagesREADME/img2.png)
+- Tela de gerenciamento dos pedidos
 ![App Screenshot](./imagesREADME/img3.png)
+
+## Autores
+
+- [@Fabio Ura](https://github.com/UraFabio)
+
